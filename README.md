@@ -4,11 +4,11 @@ The Sunny Beach Resorts is a hypothetical hotel company for which our group crea
 <br><br>
 
 
-📺 View the site on YouTube:
+📺 Preview the sites on YouTube:
 https://youtu.be/U2LXVptNdpQ
 <br>
 
-📱 View the PowerApps mobile app on YouTube:
+📱 Preview the PowerApps mobile app on YouTube:
 https://youtu.be/_qPQJAr0jfA
 <br><br>
 
