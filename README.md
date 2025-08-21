@@ -26,7 +26,7 @@ Power Automate Preview
 
 Weekly Report Preview
 <img width="1097" height="980" alt="Screenshot 2025-08-21 195425" src="https://github.com/user-attachments/assets/38b03eea-17de-423b-b4b8-1188142c8ca2" />
-<br><br>
+<br><br><br>
 
 
 🔄 Power Automate Flows<br>
@@ -44,6 +44,7 @@ v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/53a04d7f-47b2-4c4f-b1e0-dee938ad
 
 Delete event from Team Calendar and sync to Events list:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/34662461-bf91-4be0-84fc-3fcf8341056a
+<br><br><br>
 
 
 
@@ -58,7 +59,7 @@ v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/99457418-2221-f011-998a-6045bd93
 
 SunnyRoom:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/4be7246d-b92a-9bbe-d68c-77badbe87f98
-
+<br><br>
 
 
 
