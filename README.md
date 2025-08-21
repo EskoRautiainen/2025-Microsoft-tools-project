@@ -1,16 +1,16 @@
 **The Sunny Beach Resorts Project**
-
+<br><br>
 The Sunny Beach Resorts is a hypothetical hotel company for which our group created two websites, a mobile app, and a Co-pilot assistant. Users can use the app to report problems and check the status of rooms.
-
+<br><br>
 
 
 📺 View the site on YouTube:
 https://youtu.be/U2LXVptNdpQ
-
+<br><br>
 
 📱 View the PowerApps mobile app on YouTube:
 https://youtu.be/_qPQJAr0jfA
-
+<br><br>
 
 🧩 Project Overview
 Overview
@@ -27,23 +27,23 @@ Power Automate Preview
 
 Weekly Report Preview
 <img width="1097" height="980" alt="Screenshot 2025-08-21 195425" src="https://github.com/user-attachments/assets/38b03eea-17de-423b-b4b8-1188142c8ca2" />
-
+<br><br>
 
 
 🔄 Power Automate Flows
-Sync changes from Team Calendar to Events list:
+Sync changes from Team Calendar to Events list:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/d5ab379a-8618-49b1-9e8f-b46b9667c1ca
 
-Auto-add events to Team Calendar:
+Auto-add events to Team Calendar:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/9a4f493d-4d33-4e9c-8fdd-1fe74ca07400
 
-Send message to Teams when room status = Unavailable:
+Send message to Teams when room status = Unavailable:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/291d431a-cb54-4fae-8fa5-faf916ae72f6
 
-Weekly report flow:
+Weekly report flow:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/53a04d7f-47b2-4c4f-b1e0-dee938ad4c0a
 
-Delete event from Team Calendar and sync to Events list:
+Delete event from Team Calendar and sync to Events list:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/34662461-bf91-4be0-84fc-3fcf8341056a
 
 
@@ -54,19 +54,19 @@ v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/34662461-bf91-4be0-84fc-3fcf8341
 Unfortunately, we can’t showcase the Co-pilot features directly, as we lost access to them shortly after the course ended.
 However, the related Co-pilot flows are still available:
 
-SunnyReporter:
+SunnyReporter:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/99457418-2221-f011-998a-6045bd934a18
 
-SunnyRoom:
+SunnyRoom:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/4be7246d-b92a-9bbe-d68c-77badbe87f98
 
 
 
 
 
-🛠️ Microsoft Tools Used
+🛠️ Microsoft Tools Used<br>
 PowerApps, Co-pilot, Power Automate, SharePoint Lists, SharePoint (Team & Communication Sites), Viva Engage
 
-
+<br><br>
 
 Thank you!
