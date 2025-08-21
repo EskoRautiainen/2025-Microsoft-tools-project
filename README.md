@@ -29,7 +29,7 @@ Weekly Report Preview
 <br><br><br>
 
 
-🔄 Power Automate Flows<br>
+🔄 Power Automate Flow Identifiers<br>
 Sync changes from Team Calendar to Events list:<br>
 v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/d5ab379a-8618-49b1-9e8f-b46b9667c1ca
 
@@ -50,7 +50,7 @@ v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/34662461-bf91-4be0-84fc-3fcf8341
 
 
 
-🤖 Co-pilot Flows<br>
+🤖 Co-pilot Flow Identifiers<br>
 Unfortunately, we can’t showcase the Co-pilot features directly, as we lost access to them shortly after the course ended.
 However, the related Co-pilot flows are still available:
 
