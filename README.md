@@ -1,6 +1,6 @@
 **The Sunny Beach Resorts Project**
 <br><br>
-The Sunny Beach Resorts is a hypothetical hotel company for which our group created two websites, a mobile app, and a Co-pilot assistant. Users can use the app to report problems and check the status of rooms.
+The Sunny Beach Resorts is a hypothetical hotel company for which our group created two websites, a mobile app, and a Co-pilot assistant. Users can use the SunnyBot AI to report problems and check the status of rooms.
 <br><br>
 
 
