@@ -1,9 +1,9 @@
+**View it in Youtube:**
+https://youtu.be/_qPQJAr0jfA
+
+
 **Overview**
 <img width="1562" height="1294" alt="Microsoft tools project" src="https://github.com/user-attachments/assets/31b5a84d-bc31-4257-82ef-a46968eef9cd" />
-
-
-**View it in Youtube**
-https://youtu.be/_qPQJAr0jfA
 
 
 **Team Site**
@@ -18,5 +18,5 @@ https://youtu.be/_qPQJAr0jfA
 <img width="1759" height="1009" alt="Screenshot 2025-08-21 194547" src="https://github.com/user-attachments/assets/1bf40996-b1c5-4f1e-a8fe-81786108c5cb" />
 
 
-**Lists preview**
-<img width="1336" height="814" alt="Screenshot 2025-08-21 194801" src="https://github.com/user-attachments/assets/4d039301-9449-4d8d-938a-d60c0a24b24b" />
+**Weekly report preview**
+<img width="1097" height="980" alt="Screenshot 2025-08-21 195425" src="https://github.com/user-attachments/assets/38b03eea-17de-423b-b4b8-1188142c8ca2" />
