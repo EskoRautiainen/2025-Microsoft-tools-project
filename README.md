@@ -1,4 +1,8 @@
-**View it in Youtube:**
+**View the site on Youtube:**
+https://youtu.be/U2LXVptNdpQ
+
+
+**View the PowerApps mobile app on Youtube**
 https://youtu.be/_qPQJAr0jfA
 
 
@@ -20,3 +24,15 @@ https://youtu.be/_qPQJAr0jfA
 
 **Weekly report preview**
 <img width="1097" height="980" alt="Screenshot 2025-08-21 195425" src="https://github.com/user-attachments/assets/38b03eea-17de-423b-b4b8-1188142c8ca2" />
+
+
+**I unfortunately cant show the Co-pilot features as we lost the permission for it soon after the course ended**
+
+Tools used in this project:
+PowerApps
+Co-pilot
+Power Automate
+Lists
+SharePoint
+Viva Engage
+
