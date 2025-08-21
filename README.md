@@ -28,11 +28,10 @@ https://youtu.be/_qPQJAr0jfA
 
 **I unfortunately cant show the Co-pilot features as we lost the permission for it soon after the course ended**
 
-Tools used in this project:
-PowerApps
-Co-pilot
-Power Automate
-Lists
-SharePoint
-Viva Engage
 
+Microsoft tools used in this project:
+PowerApps,  Co-pilot,  Power Automate,  Lists,  SharePoint,  Viva Engage
+
+
+
+Thank you!
