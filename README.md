@@ -49,7 +49,7 @@ v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/34662461-bf91-4be0-84fc-3fcf8341
 
 
 
-🤖 Co-pilot Flows
+🤖 Co-pilot Flows<br>
 Unfortunately, we can’t showcase the Co-pilot features directly, as we lost access to them shortly after the course ended.
 However, the related Co-pilot flows are still available:
 
