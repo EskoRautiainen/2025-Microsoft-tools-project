@@ -48,6 +48,8 @@ v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/34662461-bf91-4be0-84fc-3fcf8341
 
 
 
+
+
 🤖 Co-pilot Flows
 Unfortunately, we can’t showcase the Co-pilot features directly, as we lost access to them shortly after the course ended.
 However, the related Co-pilot flows are still available:
@@ -60,8 +62,11 @@ v1/Default-ae83d978-51f7-4e9c-a426-ddc856038746/4be7246d-b92a-9bbe-d68c-77badbe8
 
 
 
+
+
 🛠️ Microsoft Tools Used
 PowerApps, Co-pilot, Power Automate, SharePoint Lists, SharePoint (Team & Communication Sites), Viva Engage
+
 
 
 Thank you!
