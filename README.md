@@ -3,7 +3,7 @@
 The Sunny Beach Resorts is a hypothetical hotel company for which our group created two websites, a mobile app, and a Co-pilot assistant. Users can use the SunnyBot AI to report problems and check the status of rooms.
 <br><br>
 🛠️ Microsoft Tools Used<br>
-PowerApps, Co-pilot, Power Automate, SharePoint Lists, SharePoint (Team & Communication Sites), Viva Engage
+PowerApps, Co-pilot, Power Automate, Lists, SharePoint (Team & Communication Sites), Viva Engage
 
 <br><br>
 
